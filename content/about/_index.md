@@ -23,11 +23,6 @@ affiliations:
     email: yahui_yang@aufe.edu.cn
     name: Anhui University of Finance and Economics, China
     title: Assistant professor
-    
-- affiliation:
-    email: peng6020@mylaurier.ca
-    name: Property and Casualty Insurance Compensation Corporation (PACICC), Canada
-    title: Zhe Peng, Assistant professor
 blog: true
 cv: cv.pdf
 date: "2022-04-28"
@@ -42,10 +37,5 @@ interests:
 profile_picture: profile.png
 socials:
  google_scholar: YOUR_NAME
-
 ---
 **[杨亚慧 (Yahui Yang)](https://orcid.org/my-orcid?orcid=0000-0002-3743-3542)** 是安徽财经大学金融学院讲师。
-
-
-
-
