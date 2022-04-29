@@ -16,7 +16,7 @@ news_items:
   extra_text: with Dongmei, Li and Zhe Peng, Beijing:Publishing House of Electronics Industry, 2019.
   link: https://item.jd.com/12641864.html//
   text: Tejvan Pettinger, Cracking Economics.
-num_news: 5
+num_news: 3
 show_news_icons: true
 title: news
 ---
