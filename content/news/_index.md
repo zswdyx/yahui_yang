@@ -1,0 +1,22 @@
+---
+date: "2022-04-28"
+default_news_icon: file-text
+draft: false
+headless: true
+news_items:
+- date: "2021-08-01"
+  extra_text: with Zhe Peng, Changsha:Hunan People’s Publishing House, 2021.
+  link: https://product.dangdang.com/28982960.html//
+  text: Byung Khun Song, Visual Economic History:How Did Globalization Evolve?  
+- date: "2020-06-01"
+  extra_text: with Zhe Peng, Beijing:Publishing House of Electronics Industry, 2020.
+  link: http://product.dangdang.com/672238033.html//
+  text: DK Publishing:How Money Works:The Facts Visually Explained.
+- date: "2019-01-01"
+  extra_text: with Dongmei, Li and Zhe Peng, Beijing:Publishing House of Electronics Industry, 2019.
+  link: https://product.dangdang.com/27893193.html//
+  text: Tejvan Pettinger, Cracking Economics.
+num_news: 5
+show_news_icons: true
+title: news
+---
