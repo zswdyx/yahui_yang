@@ -18,5 +18,5 @@ news_items:
   text: Tejvan Pettinger, Cracking Economics.
 num_news: 3
 show_news_icons: true
-title: news
+title: books
 ---
