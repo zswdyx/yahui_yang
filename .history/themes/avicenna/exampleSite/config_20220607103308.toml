@@ -1,4 +1,4 @@
-baseURL = "https://yahui-yang.netlify.app/"
+baseURL = "https://example.com"
 
 # set your your own ga token here.
 googleAnalytics = "UA/G-123123-12"
