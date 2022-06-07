@@ -14,7 +14,7 @@ news_items:
   text: Byung Khun Song, Visual Economic History:How Did Globalization Evolve?  
 - date: "2020-06-01"
   extra_text: with Zhe Peng, Beijing:Publishing House of Electronics Industry, 2020.
-  link: https://item.jd.com/13006008.html//
+  link: https://www.phei.com.cn/module/goods/wssd_content.jsp?bookid=56921
   text: DK Publishing, How Money Works:The Facts Visually Explained.
 - date: "2019-01-01"
   extra_text: with Dongmei Li and Zhe Peng, Beijing:Publishing House of Electronics Industry, 2019.
