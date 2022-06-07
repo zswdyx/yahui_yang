@@ -5,9 +5,8 @@ authors:
 
 date: "2022-06-06"
 
-publication: "Intelligence Coffee"
+publication: "Intelligence Coffee."
 
 links:
     pdf: https://intelligence.coffee/what-next-for-luckin-coffee/
-
 ---
