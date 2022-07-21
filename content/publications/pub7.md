@@ -5,7 +5,7 @@ authors:
 - Yahui Yang
 - Zhe Peng
 - Jai-Won Ryou
-date: "forthcoming"
+date: "2022"
 
 publication: "Applied Economics."
 
