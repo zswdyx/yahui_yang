@@ -1,5 +1,5 @@
 ---
-title: "What Determines the Long-Term Volatility of the Offshore RMB Exchange Rate?, with Zhe Peng and Jai-Won Ryou, 2021."
+title: "Impact of Openness on Real Exchange Rate Volatility: Evidence from China., with Zhe Peng, 2022."
 
-date: "2021-08-01"
+date: "2022-05-01"
 ---
