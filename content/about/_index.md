@@ -1,3 +1,10 @@
+<!--
+ * @Author: yahui Yang
+ * @Description: 
+ * @Date: 2022-04-28 22:22:17
+ * @LastEditTime: 2022-07-31 17:09:53
+ * @FilePath: /yahui_yang/content/about/_index.md
+-->
 ---
 academia:
 - course:
@@ -17,7 +24,7 @@ academia:
     end_date: '2012'
     institution: Namseoul University, Korea
     major: Business Administration
-    start_date: '2009'
+    
 affiliations:
 - affiliation:
     title: "Assistant professor"
