@@ -1,3 +1,10 @@
+<!--
+ * @Author: yahui Yang
+ * @Description: 
+ * @Date: 2022-04-29 00:14:53
+ * @LastEditTime: 2022-07-31 17:23:43
+ * @FilePath: /yahui_yang/content/news/index.md
+-->
 ---
 date: "2022-04-28"
 default_news_icon: "file-text"
@@ -21,4 +28,4 @@ news_items:
   link: https://www.phei.com.cn/module/goods/wssd_content.jsp?bookid=54193
   text: Tejvan Pettinger, Cracking Economics.
 ---
-content/books/news.md
+content/news/index.md
